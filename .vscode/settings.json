@@ -1,0 +1,13 @@
+{
+	"intelephense.diagnostics.undefinedMethods": false,
+	"intelephense.diagnostics.undefinedFunctions": true,
+	"intelephense.diagnostics.undefinedProperties": false,
+	"intelephense.diagnostics.undefinedSymbols": true,
+	"intelephense.diagnostics.undefinedTypes": true,
+	"intelephense.diagnostics.undefinedVariables": true,
+	"intelephense.diagnostics.unexpectedTokens": true,
+	"intelephense.diagnostics.unusedSymbols": true,
+	"intelephense.diagnostics.typeErrors": true,
+	"intelephense.diagnostics.undefinedClassConstants": true,
+	"intelephense.diagnostics.undefinedConstants": true
+}
